@@ -8,7 +8,7 @@ My research focuses on how transcription factors and chromatin regulation drive 
 
 During my Ph.D., working with colleagues in the Xie lab, we used low-input epigenomic profiling (CUT&RUN, ATAC-seq, Stacc-seq) and embryo manipulation to dissect the roles of key TFs in preimplantation development. We showed that NR5A2 bridges zygotic genome activation to the first lineage segregation, defined how SOX2 dynamically rewires its chromatin interactions to drive pluripotency progression, and demonstrated that TFAP2C and NR5A2 act as bipotency activators that simultaneously prime both ICM and TE programs in totipotent embryos. We also mapped the stepwise establishment of Polycomb (H2Aub/H3K27me3) regulatory landscapes in human early embryos.
 
-As a postdoc, my collaborators and I apply single-molecule footprinting (FOODIE) to decode TF combinatorial logic across mouse embryogenesis at near base-pair resolution — including cooperativity quantification between TF pairs, identification of novel regulators on repeat elements, and the global switch from synergistic to competitive TF binding at lineage commitment.
+As a postdoc, I am applying single-molecule footprinting (FOODIE) to decode TF combinatorial logic across mouse embryogenesis at near base-pair resolution, including cooperativity quantification between TF pairs, identification of novel regulators on repeat elements, and the global switch from synergistic to competitive TF binding at lineage commitment.
 
 **Keywords:** Zygotic genome activation, totipotency & pluripotency, first lineage segregation, TF cooperativity, Polycomb regulation, cis-regulatory elements, single-molecule footprinting
 
