@@ -21,4 +21,4 @@ As a postdoc, I am applying single-molecule footprinting (FOODIE) to decode TF c
 
 \# equal contribution
 
-[Google Scholar](https://scholar.google.co.jp/citations?user=sIlXydoAAAAJ)
+[Google Scholar](https://scholar.google.co.jp/citations?user=sIlXydoAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Fangnong-Lai)
