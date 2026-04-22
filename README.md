@@ -6,13 +6,11 @@ My research combines embryo manipulation, multi-omics profiling, and computation
 
 **Research interests:** Zygotic genome activation, totipotency & pluripotency, TF binding cooperativity, cis-regulatory elements, 3D genome, single-molecule footprinting (FOODIE)
 
-#### Selected publications
+#### Selected co-first-author publications
 
-- **Lai F**#, Li L#, Hu X#, Liu B#, et al. NR5A2 connects zygotic genome activation to the first lineage segregation in totipotent embryos. *Cell Research*, 2023.
-- Li L#, **Lai F**#, Hu X#, Liu B#, et al. Multifaceted SOX2-chromatin interaction underpins pluripotency progression in early embryos. *Science*, 2023.
-- Li L#, **Lai F**#, et al. Lineage regulators TFAP2C and NR5A2 function as bipotency activators in totipotent embryos. *Nature Structural & Molecular Biology*, 2024.
-- Yu G#, Xu K#, et al. (co-author) Establishment of chromatin architecture interplays with embryo hypertranscription. *Nature*, 2025.
-- Liu B#, et al. (co-author) Mapping putative enhancers in mouse oocytes and early embryos reveals TCF3/12 as key folliculogenesis regulators. *Nature Cell Biology*, 2024.
+- **Lai F**#, Li L#, Hu X#, Liu B#, et al. [NR5A2 connects zygotic genome activation to the first lineage segregation in totipotent embryos.](https://pubmed.ncbi.nlm.nih.gov/37935903/) *Cell Research*, 2023.
+- Li L#, **Lai F**#, Hu X#, Liu B#, et al. [Multifaceted SOX2-chromatin interaction underpins pluripotency progression in early embryos.](https://pubmed.ncbi.nlm.nih.gov/38096290/) *Science*, 2023.
+- Li L#, **Lai F**#, et al. [Lineage regulators TFAP2C and NR5A2 function as bipotency activators in totipotent embryos.](https://pubmed.ncbi.nlm.nih.gov/38243114/) *Nature Structural & Molecular Biology*, 2024.
 
 \# equal contribution
 
