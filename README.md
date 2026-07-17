@@ -20,7 +20,7 @@ As a postdoc, I am applying single-molecule footprinting (FOODIE) to decode TF c
 - Li L#, **Lai F**#, Liu L, Lu X, Hu X, Liu B, Lin Z, Fan Q, Kong F, Xu Q, Xie W. [Lineage regulators TFAP2C and NR5A2 function as bipotency activators in totipotent embryos.](https://www.nature.com/articles/s41594-023-01199-x) ***Nature Structural & Molecular Biology***, 2024.
 - Hu X#, Zhang C#, Liu B#, **Lai F**#, et al. Establishing Polycomb regulatory landscapes in human early development. ***Nature Genetics***, accepted.
 
-\# equal contribution · \* co-corresponding (FOODIE manuscript: Fuchou Tang, Xiaoliang Sunney Xie)
+\# equal contribution · \* co-corresponding
 
 #### Participating-author publications
 
