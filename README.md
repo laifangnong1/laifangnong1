@@ -14,19 +14,19 @@ As a postdoc, I am applying single-molecule footprinting (FOODIE) to decode TF c
 
 #### Selected co-first-author publications
 
-- **Lai F**#, Li L#, Hu X#, Liu B#, et al. [NR5A2 connects zygotic genome activation to the first lineage segregation in totipotent embryos.](https://www.nature.com/articles/s41422-023-00887-z) ***Cell Research***, 2023.
-- Li L#, **Lai F**#, Hu X#, Liu B#, et al. [Multifaceted SOX2-chromatin interaction underpins pluripotency progression in early embryos.](https://www.science.org/doi/10.1126/science.adi5516) ***Science***, 2023.
-- Li L#, **Lai F**#, et al. [Lineage regulators TFAP2C and NR5A2 function as bipotency activators in totipotent embryos.](https://www.nature.com/articles/s41594-023-01199-x) ***Nature Structural & Molecular Biology***, 2024.
+- **Lai F**#, Li L#, Hu X#, Liu B#, Zhu Z, Liu L, Fan Q, Tian H, Xu K, Lu X, Li Q, Kong F, Wang L, Lin Z, Deng H, Li J, Xie W. [NR5A2 connects zygotic genome activation to the first lineage segregation in totipotent embryos.](https://www.nature.com/articles/s41422-023-00887-z) ***Cell Research***, 2023.
+- Li L#, **Lai F**#, Hu X#, Liu B#, Lu X, Lin Z, Liu L, Xiang Y, Frum T, Halbisen MA, Chen F, Fan Q, Ralston A, Xie W. [Multifaceted SOX2-chromatin interaction underpins pluripotency progression in early embryos.](https://www.science.org/doi/10.1126/science.adi5516) ***Science***, 2023.
+- Li L#, **Lai F**#, Liu L, Lu X, Hu X, Liu B, Lin Z, Fan Q, Kong F, Xu Q, Xie W. [Lineage regulators TFAP2C and NR5A2 function as bipotency activators in totipotent embryos.](https://www.nature.com/articles/s41594-023-01199-x) ***Nature Structural & Molecular Biology***, 2024.
 - Hu X#, Zhang C#, Liu B#, **Lai F**#, et al. Establishing Polycomb regulatory landscapes in human early development. ***Nature Genetics***, accepted.
 
 \# equal contribution
 
 #### Participating-author publications
 
-- Yu G, Xu K, Xia W, Zhang K, Xu Q, Li L, Lin Z, Liu L, Liu B, Du Z, Chen X, Fan Q, **Lai F**, Wang W, Wang L, Kong F, Wang C, Dai H, Wang H, Xie W. [Establishment of chromatin architecture interplays with embryo hypertranscription.](https://doi.org/10.1038/s41586-025-09400-5) ***Nature***, 2025.
-- Liu B, He Y, Wu X, Lin Z, Ma J, Qiu Y, Xiang Y, Kong F, **Lai F**, Pal M, Wang P, Ming J, Zhang B, Wang Q, Wu J, Xia W, Shen W, Na J, Torres-Padilla M-E, Li J, Xie W. [Mapping putative enhancers in mouse oocytes and early embryos reveals TCF3/12 as key folliculogenesis regulators.](https://doi.org/10.1038/s41556-024-01422-x) ***Nature Cell Biology***, 2024.
-- Ji S, Chen F, Stein P, Wang J, Zhou Z, Wang L, Zhao Q, Lin Z, Liu B, Xu K, **Lai F**, Xiong Z, Hu X, Kong T, Kong F, Huang B, Wang Q, Xu Q, Fan Q, Liu L, Williams CJ, Schultz RM, Xie W. [OBOX regulates mouse zygotic genome activation and early development.](https://doi.org/10.1038/s41586-023-06428-3) ***Nature***, 2023.
-- Zou Z, Zhang C, Wang Q, Hou Z, Xiong Z, Kong F, Wang Q, Song J, Liu B, Liu B, Wang L, **Lai F**, Fan Q, Tao W, Zhao S, Ma X, Li M, Wu K, Zhao H, Chen Z, Xie W. [Translatome and transcriptome co-profiling reveals a role of TPRXs in human zygotic genome activation.](https://doi.org/10.1126/science.abo7923) ***Science***, 2022.
-- Liu B, Xu Q, Wang Q, Feng S, **Lai F**, Wang P, Zheng F, Xiang Y, Wu J, Nie J, Qiu C, Xia W, Li L, Yu G, Lin Z, Xu K, Xiong Z, Kong F, Liu L, Huang C, Yu Y, Na J, Xie W. [The landscape of RNA Pol II binding reveals a step-wise transition during ZGA.](https://doi.org/10.1038/s41586-020-2847-y) ***Nature***, 2020.
+- Yu G#, Xu K#, Xia W#, Zhang K#, Xu Q, Li L, Lin Z, Liu L, Liu B, Du Z, Chen X, Fan Q, **Lai F**, Wang W, Wang L, Kong F, Wang C, Dai H, Wang H, Xie W. [Establishment of chromatin architecture interplays with embryo hypertranscription.](https://doi.org/10.1038/s41586-025-09400-5) ***Nature***, 2025.
+- Liu B#, He Y#, Wu X#, Lin Z#, Ma J#, Qiu Y, Xiang Y, Kong F, **Lai F**, Pal M, Wang P, Ming J, Zhang B, Wang Q, Wu J, Xia W, Shen W, Na J, Torres-Padilla M-E, Li J, Xie W. [Mapping putative enhancers in mouse oocytes and early embryos reveals TCF3/12 as key folliculogenesis regulators.](https://doi.org/10.1038/s41556-024-01422-x) ***Nature Cell Biology***, 2024.
+- Ji S#, Chen F#, Stein P#, Wang J#, Zhou Z#, Wang L#, Zhao Q, Lin Z, Liu B, Xu K, **Lai F**, Xiong Z, Hu X, Kong T, Kong F, Huang B, Wang Q, Xu Q, Fan Q, Liu L, Williams CJ, Schultz RM, Xie W. [OBOX regulates mouse zygotic genome activation and early development.](https://doi.org/10.1038/s41586-023-06428-3) ***Nature***, 2023.
+- Zou Z#, Zhang C#, Wang Q#, Hou Z#, Xiong Z, Kong F, Wang Q, Song J, Liu B, Liu B, Wang L, **Lai F**, Fan Q, Tao W, Zhao S, Ma X, Li M, Wu K, Zhao H, Chen Z, Xie W. [Translatome and transcriptome co-profiling reveals a role of TPRXs in human zygotic genome activation.](https://doi.org/10.1126/science.abo7923) ***Science***, 2022.
+- Liu B#, Xu Q#, Wang Q#, Feng S#, **Lai F**, Wang P, Zheng F, Xiang Y, Wu J, Nie J, Qiu C, Xia W, Li L, Yu G, Lin Z, Xu K, Xiong Z, Kong F, Liu L, Huang C, Yu Y, Na J, Xie W. [The landscape of RNA Pol II binding reveals a step-wise transition during ZGA.](https://doi.org/10.1038/s41586-020-2847-y) ***Nature***, 2020.
 
 [Google Scholar](https://scholar.google.co.jp/citations?user=sIlXydoAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Fangnong-Lai)
