@@ -12,20 +12,15 @@ As a postdoc, I am applying single-molecule footprinting (FOODIE) to decode TF c
 
 **Keywords:** Zygotic genome activation, totipotency & pluripotency, first lineage segregation, TF cooperativity, Polycomb regulation, cis-regulatory elements, single-molecule footprinting
 
-#### First-author manuscript (in preparation)
-
-- **Lai F**, et al., Tang F*, Xie XS*. Single-molecule footprinting decodes the combinatorial TF regulatory landscape of early mammalian embryogenesis. *Manuscript in preparation*.
-
-\* co-corresponding authors (Fuchou Tang, Xiaoliang Sunney Xie)
-
 #### Selected co-first-author publications
 
+- **Lai F**#, et al., Tang F*, Xie XS*. Single-molecule footprinting decodes the combinatorial TF regulatory landscape of early mammalian embryogenesis. *Manuscript in preparation*.
 - **Lai F**#, Li L#, Hu X#, Liu B#, Zhu Z, Liu L, Fan Q, Tian H, Xu K, Lu X, Li Q, Kong F, Wang L, Lin Z, Deng H, Li J, Xie W. [NR5A2 connects zygotic genome activation to the first lineage segregation in totipotent embryos.](https://www.nature.com/articles/s41422-023-00887-z) ***Cell Research***, 2023.
 - Li L#, **Lai F**#, Hu X#, Liu B#, Lu X, Lin Z, Liu L, Xiang Y, Frum T, Halbisen MA, Chen F, Fan Q, Ralston A, Xie W. [Multifaceted SOX2-chromatin interaction underpins pluripotency progression in early embryos.](https://www.science.org/doi/10.1126/science.adi5516) ***Science***, 2023.
 - Li L#, **Lai F**#, Liu L, Lu X, Hu X, Liu B, Lin Z, Fan Q, Kong F, Xu Q, Xie W. [Lineage regulators TFAP2C and NR5A2 function as bipotency activators in totipotent embryos.](https://www.nature.com/articles/s41594-023-01199-x) ***Nature Structural & Molecular Biology***, 2024.
 - Hu X#, Zhang C#, Liu B#, **Lai F**#, et al. Establishing Polycomb regulatory landscapes in human early development. ***Nature Genetics***, accepted.
 
-\# equal contribution
+\# equal contribution · \* co-corresponding (FOODIE manuscript: Fuchou Tang, Xiaoliang Sunney Xie)
 
 #### Participating-author publications
 
