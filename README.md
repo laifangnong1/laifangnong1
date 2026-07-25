@@ -14,32 +14,32 @@ As a postdoc, I am applying single-molecule footprinting (FOODIE) to decode TF c
 
 #### Research interests
 
-I am fascinated by a single question: how do transcription factors (TFs) read and rewrite the genome to steer the earliest cell-fate decisions in mammalian life — from zygotic genome activation (ZGA) through the first lineage segregation to the progression of pluripotency? Across my work, a few connected themes have emerged that continue to drive me.
+How do a handful of transcription factors (TFs) read and rewrite the genome to steer the earliest cell-fate decisions of mammalian life? From zygotic genome activation (ZGA) through the first lineage segregation to the progression of pluripotency, how can so few regulators encode a program of such precision? Our work is organized around a few general questions.
 
-**TFs as bridges between developmental transitions.** I like to ask which factors *connect* one stage to the next rather than simply mark it. I found that the orphan nuclear receptor NR5A2, sharply induced at ZGA, links ZGA to the first lineage segregation — at the 2–8C stage it opens and activates early ICM (*Nanog*, *Pou5f1*, *Tdgf1*), primitive-endoderm (*Gata6*, *Fgfr1/2*) and trophectoderm (*Tead4*, *Gata3*) genes, priming regulatory sites that the NANOG/SOX2/OCT4 network later inherits in the blastocyst.
+**How is one developmental stage handed off to the next?** Development is a relay rather than a string of isolated states, so which factors *connect* transitions rather than merely mark them? We found that the orphan nuclear receptor NR5A2, sharply induced at ZGA, links ZGA to the first lineage segregation: at the 2–8C stage it opens and activates early ICM (*Nanog*, *Pou5f1*, *Tdgf1*), primitive-endoderm (*Gata6*, *Fgfr1/2*) and trophectoderm (*Tead4*, *Gata3*) genes, priming regulatory sites that the NANOG/SOX2/OCT4 network later inherits in the blastocyst. Can a single early factor thus pre-wire the genome for regulators that have not yet appeared?
 
 <p align="center">
   <img src="assets/nr5a2_model.png" width="760" alt="NR5A2 connects ZGA to the first lineage segregation"><br>
   <sub><b>NR5A2 bridges ZGA and the first lineage segregation.</b> Adapted from Lai <i>et al.</i>, <i>Cell Research</i> 2023 (Fig. 7).</sub>
 </p>
 
-**Context sets a TF's job — not the other way around.** Master TFs are usually cast as universal "pioneers," but I am drawn to how the *same* factor behaves differently depending on chromatin and cell state. I showed that SOX2 acts through three distinct modes as pluripotency matures: *settler* binding at pre-accessible chromatin (E3.5 ICM), *pioneer* binding that opens closed enhancers (naïve pluripotency), and *pilot* binding that poises formative enhancers for faster opening later.
+**What decides whether a TF opens chromatin or merely reads it?** Master TFs are routinely cast as universal "pioneers," but does the same factor keep the same job as a cell changes state? We showed that SOX2 acts through three distinct modes as pluripotency matures — *settler* binding at pre-accessible chromatin (E3.5 ICM), *pioneer* binding that opens closed enhancers (naïve pluripotency), and *pilot* binding that poises formative enhancers for faster opening later — suggesting that a TF's function is written as much by chromatin context as by the protein itself.
 
 <p align="center">
-  <img src="assets/sox2_model.png" width="560" alt="SOX2 acts as settler, pioneer, or pilot depending on context"><br>
-  <sub><b>SOX2 uses settler, pioneer, and pilot binding modes across potency progression.</b> Adapted from Li, Lai <i>et al.</i>, <i>Science</i> 2023 (Fig. 7).</sub>
+  <img src="assets/sox2_model.png" width="640" alt="SOX2 acts as settler, pioneer, or pilot depending on context"><br>
+  <sub><b>SOX2 uses settler, pioneer, and pilot binding modes across potency progression.</b> Adapted from Li, Lai <i>et al.</i>, <i>Science</i> 2023 (Fig. 7b).</sub>
 </p>
 
-**How cells keep options open before they commit.** I am interested in the logic of undecided, totipotent cells. Rather than each lineage TF repressing the alternative fate, I found that TFAP2C and NR5A2 act as *bipotency activators* — co-binding and simultaneously turning on both ICM and trophectoderm programs in 8C blastomeres, so a cell holds both futures open until commitment.
+**How does a cell hold several futures open before it commits?** When opposing lineage programs are both active, are the alternative fates suppressed by mutual repression, or actively kept alive? We found that TFAP2C and NR5A2 act as *bipotency activators* — co-binding and simultaneously turning on both ICM and trophectoderm programs in 8C blastomeres — so that totipotent cells sustain both options rather than silencing one.
 
 <p align="center">
   <img src="assets/tfap2c_model.png" width="760" alt="TFAP2C and NR5A2 act as bipotency activators at the 8-cell stage"><br>
   <sub><b>TFAP2C and NR5A2 act as bipotency activators at the 8-cell stage.</b> Adapted from Li, Lai <i>et al.</i>, <i>Nature Structural & Molecular Biology</i> 2024 (Fig. 7).</sub>
 </p>
 
-**Repeat elements as the wiring of early regulation.** Transposable elements — especially B1/SINE repeats — supply the binding sites that NR5A2 and other early-stage TFs exploit, connecting the mobile-element landscape of the embryo to its transcriptional circuitry.
+**Where do the instructions for the earliest regulation come from?** If the first TFs need binding sites before canonical enhancers are established, what supplies them? We find that transposable elements — especially B1/SINE repeats — provide the platforms that NR5A2 and other early-stage TFs exploit, tying the mobile-element landscape of the embryo to its transcriptional circuitry.
 
-Building on these ideas, my current work applies single-molecule footprinting (FOODIE) to quantify TF cooperativity and decode the combinatorial binding logic of TFs at near base-pair resolution across mouse embryogenesis.
+Together these threads converge on a broader question: **how is the combinatorial logic of TF binding written into the genome, and how is it read out to build an embryo?** To approach it directly, we now apply single-molecule footprinting (FOODIE) to quantify TF cooperativity at near base-pair resolution across mouse embryogenesis.
 
 #### Selected co-first-author publications
 
