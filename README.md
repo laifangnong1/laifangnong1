@@ -33,7 +33,7 @@ How do a handful of transcription factors (TFs) read and rewrite the genome to s
 **How does a cell hold several futures open before it commits?** When opposing lineage programs are both active, are the alternative fates suppressed by mutual repression, or actively kept alive? We found that TFAP2C and NR5A2 act as *bipotency activators* — co-binding and simultaneously turning on both ICM and trophectoderm programs in 8C blastomeres — so that totipotent cells sustain both options rather than silencing one.
 
 <p align="center">
-  <img src="assets/tfap2c_model.png" width="760" alt="TFAP2C and NR5A2 act as bipotency activators at the 8-cell stage"><br>
+  <img src="assets/tfap2c_model.png?v=2" width="760" alt="TFAP2C and NR5A2 act as bipotency activators at the 8-cell stage"><br>
   <sub><b>TFAP2C and NR5A2 act as bipotency activators at the 8-cell stage.</b> Adapted from Li, Lai <i>et al.</i>, <i>Nature Structural & Molecular Biology</i> 2024 (Fig. 7).</sub>
 </p>
 
