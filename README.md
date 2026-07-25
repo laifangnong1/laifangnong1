@@ -16,13 +16,28 @@ As a postdoc, I am applying single-molecule footprinting (FOODIE) to decode TF c
 
 I am fascinated by a single question: how do transcription factors (TFs) read and rewrite the genome to steer the earliest cell-fate decisions in mammalian life — from zygotic genome activation (ZGA) through the first lineage segregation to the progression of pluripotency? Across my work, a few connected themes have emerged that continue to drive me.
 
-- **TFs as bridges between developmental transitions.** I like to ask which factors *connect* one stage to the next rather than simply mark it. I found that the orphan nuclear receptor NR5A2, sharply induced at ZGA, links ZGA to the first lineage segregation — at the 2–8C stage it opens and activates early ICM (*Nanog*, *Pou5f1*, *Tdgf1*), primitive-endoderm (*Gata6*, *Fgfr1/2*) and trophectoderm (*Tead4*, *Gata3*) genes, priming regulatory sites that the NANOG/SOX2/OCT4 network later inherits in the blastocyst.
+**TFs as bridges between developmental transitions.** I like to ask which factors *connect* one stage to the next rather than simply mark it. I found that the orphan nuclear receptor NR5A2, sharply induced at ZGA, links ZGA to the first lineage segregation — at the 2–8C stage it opens and activates early ICM (*Nanog*, *Pou5f1*, *Tdgf1*), primitive-endoderm (*Gata6*, *Fgfr1/2*) and trophectoderm (*Tead4*, *Gata3*) genes, priming regulatory sites that the NANOG/SOX2/OCT4 network later inherits in the blastocyst.
 
-- **Context sets a TF's job — not the other way around.** Master TFs are usually cast as universal "pioneers," but I am drawn to how the *same* factor behaves differently depending on chromatin and cell state. I showed that SOX2 acts through three distinct modes as pluripotency matures: *settler* binding at pre-accessible chromatin (E3.5 ICM), *pioneer* binding that opens closed enhancers (naïve pluripotency), and *pilot* binding that poises formative enhancers for faster opening later.
+<p align="center">
+  <img src="assets/nr5a2_model.png" width="760" alt="NR5A2 connects ZGA to the first lineage segregation"><br>
+  <sub><b>NR5A2 bridges ZGA and the first lineage segregation.</b> Adapted from Lai <i>et al.</i>, <i>Cell Research</i> 2023 (Fig. 7).</sub>
+</p>
 
-- **How cells keep options open before they commit.** I am interested in the logic of undecided, totipotent cells. Rather than each lineage TF repressing the alternative fate, I found that TFAP2C and NR5A2 act as *bipotency activators* — co-binding and simultaneously turning on both ICM and trophectoderm programs in 8C blastomeres, so a cell holds both futures open until commitment.
+**Context sets a TF's job — not the other way around.** Master TFs are usually cast as universal "pioneers," but I am drawn to how the *same* factor behaves differently depending on chromatin and cell state. I showed that SOX2 acts through three distinct modes as pluripotency matures: *settler* binding at pre-accessible chromatin (E3.5 ICM), *pioneer* binding that opens closed enhancers (naïve pluripotency), and *pilot* binding that poises formative enhancers for faster opening later.
 
-- **Repeat elements as the wiring of early regulation.** Transposable elements — especially B1/SINE repeats — supply the binding sites that NR5A2 and other early-stage TFs exploit, connecting the mobile-element landscape of the embryo to its transcriptional circuitry.
+<p align="center">
+  <img src="assets/sox2_model.png" width="560" alt="SOX2 acts as settler, pioneer, or pilot depending on context"><br>
+  <sub><b>SOX2 uses settler, pioneer, and pilot binding modes across potency progression.</b> Adapted from Li, Lai <i>et al.</i>, <i>Science</i> 2023 (Fig. 7).</sub>
+</p>
+
+**How cells keep options open before they commit.** I am interested in the logic of undecided, totipotent cells. Rather than each lineage TF repressing the alternative fate, I found that TFAP2C and NR5A2 act as *bipotency activators* — co-binding and simultaneously turning on both ICM and trophectoderm programs in 8C blastomeres, so a cell holds both futures open until commitment.
+
+<p align="center">
+  <img src="assets/tfap2c_model.png" width="760" alt="TFAP2C and NR5A2 act as bipotency activators at the 8-cell stage"><br>
+  <sub><b>TFAP2C and NR5A2 act as bipotency activators at the 8-cell stage.</b> Adapted from Li, Lai <i>et al.</i>, <i>Nature Structural & Molecular Biology</i> 2024 (Fig. 7).</sub>
+</p>
+
+**Repeat elements as the wiring of early regulation.** Transposable elements — especially B1/SINE repeats — supply the binding sites that NR5A2 and other early-stage TFs exploit, connecting the mobile-element landscape of the embryo to its transcriptional circuitry.
 
 Building on these ideas, my current work applies single-molecule footprinting (FOODIE) to quantify TF cooperativity and decode the combinatorial binding logic of TFs at near base-pair resolution across mouse embryogenesis.
 
