@@ -19,7 +19,7 @@ How do a handful of transcription factors (TFs) read and rewrite the genome to s
 **How is one developmental stage handed off to the next?** Development is a relay rather than a string of isolated states, so which factors *connect* transitions rather than merely mark them? We found that the orphan nuclear receptor NR5A2, sharply induced at ZGA, links ZGA to the first lineage segregation: at the 2–8C stage it opens and activates early ICM (*Nanog*, *Pou5f1*, *Tdgf1*), primitive-endoderm (*Gata6*, *Fgfr1/2*) and trophectoderm (*Tead4*, *Gata3*) genes, priming regulatory sites that the NANOG/SOX2/OCT4 network later inherits in the blastocyst. Can a single early factor thus pre-wire the genome for regulators that have not yet appeared?
 
 <p align="center">
-  <img src="assets/nr5a2_model.png" width="988" alt="NR5A2 connects ZGA to the first lineage segregation"><br>
+  <img src="assets/nr5a2_model.png" width="1284" alt="NR5A2 connects ZGA to the first lineage segregation"><br>
   <sub><b>NR5A2 bridges ZGA and the first lineage segregation.</b> Adapted from Lai <i>et al.</i>, <i>Cell Research</i> 2023 (Fig. 7).</sub>
 </p>
 
@@ -41,7 +41,7 @@ How do a handful of transcription factors (TFs) read and rewrite the genome to s
 
 Together these threads converge on the broader question that now drives my postdoctoral work: **how is the combinatorial logic of TF binding written into the genome, and how is it read out to build an embryo?**
 
-**Can we watch transcription factors act together, one DNA molecule at a time?** Population and antibody-based assays average over cells, so they cannot tell whether two factors occupy the *same* molecule — or how such partnerships are rewired as cells commit. We approach this with single-molecule footprinting (FOODIE, FOOtprinting with DeamInasE), building a near-base-resolution atlas of combinatorial TF occupancy and nucleosome positioning across mouse early embryogenesis, from the 1-cell zygote to E7.5 gastrulation. When do factors truly co-bind rather than merely share a region? We find that significant co-occupancy is largely short-range, and that NR5A2 and TFAP2C switch from co-occupancy to mutual exclusion right at the E4.5 blastocyst — tying combinatorial binding to the first lineage choice. What licenses a factor to bind in the first place? Preimplantation NRF1 binding tracks the local DNA-demethylation wave, its footprint fraction predicting both chromatin accessibility and transcription. And where does new regulatory information come from? De novo motif discovery implicates ZFX, acting through SINE-B1 retroelements, in sustaining cleavage-stage transcription — a repeat-embedded network that echoes the B1 theme above.
+**Can we watch transcription factors act together, one DNA molecule at a time?** We think so — and the full single-molecule story is on its way. **Stay tuned.**
 
 <p align="center">
   <img src="assets/foodie_model.png" width="507" alt="Single-molecule footprinting (FOODIE) of combinatorial TF occupancy in the early mouse embryo"><br>
