@@ -12,6 +12,20 @@ As a postdoc, I am applying single-molecule footprinting (FOODIE) to decode TF c
 
 **Keywords:** Zygotic genome activation, totipotency & pluripotency, first lineage segregation, TF cooperativity, Polycomb regulation, cis-regulatory elements, single-molecule footprinting
 
+#### Research interests
+
+I am fascinated by a single question: how do transcription factors (TFs) read and rewrite the genome to steer the earliest cell-fate decisions in mammalian life — from zygotic genome activation (ZGA) through the first lineage segregation to the progression of pluripotency? Across my work, a few connected themes have emerged that continue to drive me.
+
+- **TFs as bridges between developmental transitions.** I like to ask which factors *connect* one stage to the next rather than simply mark it. I found that the orphan nuclear receptor NR5A2, sharply induced at ZGA, links ZGA to the first lineage segregation — at the 2–8C stage it opens and activates early ICM (*Nanog*, *Pou5f1*, *Tdgf1*), primitive-endoderm (*Gata6*, *Fgfr1/2*) and trophectoderm (*Tead4*, *Gata3*) genes, priming regulatory sites that the NANOG/SOX2/OCT4 network later inherits in the blastocyst.
+
+- **Context sets a TF's job — not the other way around.** Master TFs are usually cast as universal "pioneers," but I am drawn to how the *same* factor behaves differently depending on chromatin and cell state. I showed that SOX2 acts through three distinct modes as pluripotency matures: *settler* binding at pre-accessible chromatin (E3.5 ICM), *pioneer* binding that opens closed enhancers (naïve pluripotency), and *pilot* binding that poises formative enhancers for faster opening later.
+
+- **How cells keep options open before they commit.** I am interested in the logic of undecided, totipotent cells. Rather than each lineage TF repressing the alternative fate, I found that TFAP2C and NR5A2 act as *bipotency activators* — co-binding and simultaneously turning on both ICM and trophectoderm programs in 8C blastomeres, so a cell holds both futures open until commitment.
+
+- **Repeat elements as the wiring of early regulation.** Transposable elements — especially B1/SINE repeats — supply the binding sites that NR5A2 and other early-stage TFs exploit, connecting the mobile-element landscape of the embryo to its transcriptional circuitry.
+
+Building on these ideas, my current work applies single-molecule footprinting (FOODIE) to quantify TF cooperativity and decode the combinatorial binding logic of TFs at near base-pair resolution across mouse embryogenesis.
+
 #### Selected co-first-author publications
 
 - **Lai F**#, et al., Tang F*, Xie XS*. Single-molecule footprinting decodes the combinatorial TF regulatory landscape of early mammalian embryogenesis. *Manuscript in preparation*.
