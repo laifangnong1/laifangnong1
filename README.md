@@ -14,7 +14,11 @@ As a postdoc, I am applying single-molecule footprinting (FOODIE) to decode TF c
 
 #### Research interests
 
+##### The big picture
+
 Every cell in the body carries the same genome, yet transcription factors (TFs) interpret it differently at every moment of life — to build an embryo, to maintain a tissue, and eventually to let it age. One overarching question drives us: **what role does transcriptional regulation play across the lifespan — from the first divisions of the embryo through the decline of aging — and how do transcription factors act together, in the right order and the right combinations, to control it?** TFs rarely work alone or all at once; the *timing*, *sequence*, and *cooperativity* of their binding — more than any single factor — encode when and where each gene turns on. How this combinatorial, time-resolved logic is written into the genome and read out into cell identity is the thread that runs through our work.
+
+##### In the early embryo
 
 We pursue this question where it is most vivid — the **early mammalian embryo**. In just a few days, a single fertilized cell activates its own genome and resolves into the first distinct lineages: the most concentrated burst of cell-fate decisions in mammalian life, and an ideal system in which to watch transcriptional regulation unfold in real time. Within it, a few connected questions guide us.
 
