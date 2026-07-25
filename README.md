@@ -14,7 +14,9 @@ As a postdoc, I am applying single-molecule footprinting (FOODIE) to decode TF c
 
 #### Research interests
 
-How do a handful of transcription factors (TFs) read and rewrite the genome to steer the earliest cell-fate decisions of mammalian life? From zygotic genome activation (ZGA) through the first lineage segregation to the progression of pluripotency, how can so few regulators encode a program of such precision? Our work is organized around a few general questions.
+Every cell in the body carries the same genome, yet transcription factors (TFs) interpret it differently at every moment of life — to build an embryo, to maintain a tissue, and eventually to let it age. One overarching question drives us: **what role does transcriptional regulation play across the lifespan — from the first divisions of the embryo through the decline of aging — and how do transcription factors act together, in the right order and the right combinations, to control it?** TFs rarely work alone or all at once; the *timing*, *sequence*, and *cooperativity* of their binding — more than any single factor — encode when and where each gene turns on. How this combinatorial, time-resolved logic is written into the genome and read out into cell identity is the thread that runs through our work.
+
+We pursue this question where it is most vivid — the **early mammalian embryo**. In just a few days, a single fertilized cell activates its own genome and resolves into the first distinct lineages: the most concentrated burst of cell-fate decisions in mammalian life, and an ideal system in which to watch transcriptional regulation unfold in real time. Within it, a few connected questions guide us.
 
 **How is one developmental stage handed off to the next?** Development is a relay rather than a string of isolated states, so which factors *connect* transitions rather than merely mark them? We found that the orphan nuclear receptor NR5A2, sharply induced at ZGA, links ZGA to the first lineage segregation: at the 2–8C stage it opens and activates early ICM (*Nanog*, *Pou5f1*, *Tdgf1*), primitive-endoderm (*Gata6*, *Fgfr1/2*) and trophectoderm (*Tead4*, *Gata3*) genes, priming regulatory sites that the NANOG/SOX2/OCT4 network later inherits in the blastocyst. Can a single early factor thus pre-wire the genome for regulators that have not yet appeared?
 
@@ -39,7 +41,7 @@ How do a handful of transcription factors (TFs) read and rewrite the genome to s
 
 **Where do the instructions for the earliest regulation come from?** If the first TFs need binding sites before canonical enhancers are established, what supplies them? We find that transposable elements — especially B1/SINE repeats — provide the platforms that NR5A2 and other early-stage TFs exploit, tying the mobile-element landscape of the embryo to its transcriptional circuitry.
 
-Together these threads converge on the broader question that now drives my postdoctoral work: **how is the combinatorial logic of TF binding written into the genome, and how is it read out to build an embryo?**
+Together these threads converge on the broader question that now drives our current work: **how is the combinatorial logic of TF binding written into the genome, and how is it read out to build an embryo?**
 
 **Can we watch transcription factors act together, one DNA molecule at a time?** We think so — and the full single-molecule story is on its way. **Stay tuned!**
 
