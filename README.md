@@ -19,7 +19,7 @@ How do a handful of transcription factors (TFs) read and rewrite the genome to s
 **How is one developmental stage handed off to the next?** Development is a relay rather than a string of isolated states, so which factors *connect* transitions rather than merely mark them? We found that the orphan nuclear receptor NR5A2, sharply induced at ZGA, links ZGA to the first lineage segregation: at the 2–8C stage it opens and activates early ICM (*Nanog*, *Pou5f1*, *Tdgf1*), primitive-endoderm (*Gata6*, *Fgfr1/2*) and trophectoderm (*Tead4*, *Gata3*) genes, priming regulatory sites that the NANOG/SOX2/OCT4 network later inherits in the blastocyst. Can a single early factor thus pre-wire the genome for regulators that have not yet appeared?
 
 <p align="center">
-  <img src="assets/nr5a2_model.png" width="1284" alt="NR5A2 connects ZGA to the first lineage segregation"><br>
+  <img src="assets/nr5a2_model.png?v=2" width="1284" alt="NR5A2 connects ZGA to the first lineage segregation"><br>
   <sub><b>NR5A2 bridges ZGA and the first lineage segregation.</b> Adapted from Lai <i>et al.</i>, <i>Cell Research</i> 2023 (Fig. 7).</sub>
 </p>
 
