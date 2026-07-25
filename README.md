@@ -39,7 +39,14 @@ How do a handful of transcription factors (TFs) read and rewrite the genome to s
 
 **Where do the instructions for the earliest regulation come from?** If the first TFs need binding sites before canonical enhancers are established, what supplies them? We find that transposable elements — especially B1/SINE repeats — provide the platforms that NR5A2 and other early-stage TFs exploit, tying the mobile-element landscape of the embryo to its transcriptional circuitry.
 
-Together these threads converge on a broader question: **how is the combinatorial logic of TF binding written into the genome, and how is it read out to build an embryo?** To approach it directly, we now apply single-molecule footprinting (FOODIE) to quantify TF cooperativity at near base-pair resolution across mouse embryogenesis.
+Together these threads converge on the broader question that now drives my postdoctoral work: **how is the combinatorial logic of TF binding written into the genome, and how is it read out to build an embryo?**
+
+**Can we watch transcription factors act together, one DNA molecule at a time?** Population and antibody-based assays average over cells, so they cannot tell whether two factors occupy the *same* molecule — or how such partnerships are rewired as cells commit. We approach this with single-molecule footprinting (FOODIE, FOOtprinting with DeamInasE), building a near-base-resolution atlas of combinatorial TF occupancy and nucleosome positioning across mouse early embryogenesis, from the 1-cell zygote to E7.5 gastrulation. When do factors truly co-bind rather than merely share a region? We find that significant co-occupancy is largely short-range, and that NR5A2 and TFAP2C switch from co-occupancy to mutual exclusion right at the E4.5 blastocyst — tying combinatorial binding to the first lineage choice. What licenses a factor to bind in the first place? Preimplantation NRF1 binding tracks the local DNA-demethylation wave, its footprint fraction predicting both chromatin accessibility and transcription. And where does new regulatory information come from? De novo motif discovery implicates ZFX, acting through SINE-B1 retroelements, in sustaining cleavage-stage transcription — a repeat-embedded network that echoes the B1 theme above.
+
+<p align="center">
+  <img src="assets/foodie_model.png" width="760" alt="Single-molecule footprinting (FOODIE) of combinatorial TF occupancy in the early mouse embryo"><br>
+  <sub><b>FOODIE resolves combinatorial TF occupancy, cooperativity, and nucleosome positioning at single-molecule, near-base resolution across early embryogenesis.</b> Schematic of the FOODIE approach (Lai <i>et al.</i>, manuscript under review).</sub>
+</p>
 
 #### Selected co-first-author publications
 
