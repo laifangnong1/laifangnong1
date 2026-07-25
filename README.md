@@ -41,7 +41,7 @@ How do a handful of transcription factors (TFs) read and rewrite the genome to s
 
 Together these threads converge on the broader question that now drives my postdoctoral work: **how is the combinatorial logic of TF binding written into the genome, and how is it read out to build an embryo?**
 
-**Can we watch transcription factors act together, one DNA molecule at a time?** We think so — and the full single-molecule story is on its way. **Stay tuned.**
+**Can we watch transcription factors act together, one DNA molecule at a time?** We think so — and the full single-molecule story is on its way. **Stay tuned!**
 
 <p align="center">
   <img src="assets/foodie_model.png" width="507" alt="Single-molecule footprinting (FOODIE) of combinatorial TF occupancy in the early mouse embryo"><br>
