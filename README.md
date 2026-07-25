@@ -26,7 +26,7 @@ How do a handful of transcription factors (TFs) read and rewrite the genome to s
 **What decides whether a TF opens chromatin or merely reads it?** Master TFs are routinely cast as universal "pioneers," but does the same factor keep the same job as a cell changes state? We showed that SOX2 acts through three distinct modes as pluripotency matures — *settler* binding at pre-accessible chromatin (E3.5 ICM), *pioneer* binding that opens closed enhancers (naïve pluripotency), and *pilot* binding that poises formative enhancers for faster opening later — suggesting that a TF's function is written as much by chromatin context as by the protein itself.
 
 <p align="center">
-  <img src="assets/sox2_model.png" width="640" alt="SOX2 acts as settler, pioneer, or pilot depending on context"><br>
+  <img src="assets/sox2_model.png" width="760" alt="SOX2 acts as settler, pioneer, or pilot depending on context"><br>
   <sub><b>SOX2 uses settler, pioneer, and pilot binding modes across potency progression.</b> Adapted from Li, Lai <i>et al.</i>, <i>Science</i> 2023 (Fig. 7b).</sub>
 </p>
 
