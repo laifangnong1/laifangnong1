@@ -54,6 +54,10 @@ Together these threads converge on the broader question that now drives our curr
   <sub><b>FOODIE resolves combinatorial TF occupancy, cooperativity, and nucleosome positioning at single-molecule, near-base resolution across early embryogenesis.</b> Schematic of the FOODIE approach (Lai <i>et al.</i>, manuscript in preparation for submission).</sub>
 </p>
 
+##### Approaches
+
+To answer these questions, we integrate a broad experimental and computational toolkit: chromatin and transcriptome profiling (**ChIP-seq**, **ATAC-seq**, **RNA-seq**, **CUT&RUN**, **CUT&Tag**); single-molecule and single-cell readouts (**(sc-)FOODIE**, **scRNA-seq**); massively parallel reporter assays (**STARR-seq**); mouse genetics (**knockdown and knockout mouse models**); imaging (**IF/IHC**); proteomics (**single-cell MS**, **IP-MS**, **pull-down MS**); and sequence-based deep-learning models (e.g., **ChromBPNet**).
+
 #### Selected co-first-author publications
 
 - **Lai F**#, et al., Tang F*, Xie XS*. Single-molecule footprinting decodes the combinatorial TF regulatory landscape of early mammalian embryogenesis. *Manuscript in preparation*.
