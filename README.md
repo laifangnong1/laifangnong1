@@ -1,5 +1,7 @@
 ### Hi, I'm Fangnong Lai
 
+![Profile views](https://komarev.com/ghpvc/?username=laifangnong1&label=Profile%20views&color=0e75b6&style=flat)
+
 Ph.D. from [Wei Xie Lab](http://www.xielab.org.cn/), Tsinghua University. Currently postdoc at [Sunney Xie Lab](https://sunneyxielab.org/sunneyxie) (BIOPIC), Peking University.
 
 #### About my research
@@ -78,3 +80,26 @@ To answer these questions, we utilize a broad experimental and computational too
 - Liu B#, Xu Q#, Wang Q#, Feng S#, **Lai F**, Wang P, Zheng F, Xiang Y, Wu J, Nie J, Qiu C, Xia W, Li L, Yu G, Lin Z, Xu K, Xiong Z, Kong F, Liu L, Huang C, Yu Y, Na J, Xie W. [The landscape of RNA Pol II binding reveals a step-wise transition during ZGA.](https://doi.org/10.1038/s41586-020-2847-y) ***Nature***, 2020.
 
 [Google Scholar](https://scholar.google.co.jp/citations?user=sIlXydoAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Fangnong-Lai)
+
+<!--
+======================================================================
+ Visitor map (访客地理位置 + 累计次数)
+ ----------------------------------------------------------------------
+ GitHub 会过滤 JavaScript，所以只能用「图片式」地图。步骤：
+   1. 打开 https://clustrmaps.com/  ->  "Get a free map"
+   2. 网站地址填:  https://github.com/laifangnong1
+   3. 选样式(Globe 或 Map)，它会给你一段嵌入代码，
+      里面有 map 图片 URL 和一个 site 链接 URL。
+   4. 把下面这段解除注释，并把两个 URL 换成你拿到的：
+======================================================================
+
+#### Visitors
+
+<p align="center">
+  <a href="https://clustrmaps.com/site/你的SITE_ID">
+    <img src="https://clustrmaps.com/map_v2/aslo/你的MAP_ID.png" width="420" alt="Visitor map">
+  </a>
+</p>
+
+-->
+
