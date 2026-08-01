@@ -85,19 +85,24 @@ To answer these questions, we utilize a broad experimental and computational too
 ======================================================================
  Visitor map (访客地理位置 + 累计次数)
  ----------------------------------------------------------------------
- GitHub 会过滤 JavaScript，所以只能用「图片式」地图。步骤：
-   1. 打开 https://clustrmaps.com/  ->  "Get a free map"
+ GitHub 会过滤 JavaScript，所以只能用「图片式」地图。
+ 注意：老域名 clustrmaps.com 在国内被墙，务必用新域名 mapmyvisitors.com。
+ 步骤：
+   1. 打开 https://mapmyvisitors.com/  ->  "Get a free map"
+      (旧的 ClustrMaps 改名叫 MapMyVisitors；主页偶尔 520，刷新即可)
    2. 网站地址填:  https://github.com/laifangnong1
    3. 选样式(Globe 或 Map)，它会给你一段嵌入代码，
       里面有 map 图片 URL 和一个 site 链接 URL。
-   4. 把下面这段解除注释，并把两个 URL 换成你拿到的：
+   4. 若拿到的 URL 是 clustrmaps.com，把域名手动改成 mapmyvisitors.com
+      (内容相同，但只有 mapmyvisitors.com 在国内能加载)。
+   5. 把下面这段解除注释，并把两个 ID 换成你拿到的：
 ======================================================================
 
 #### Visitors
 
 <p align="center">
-  <a href="https://clustrmaps.com/site/你的SITE_ID">
-    <img src="https://clustrmaps.com/map_v2/aslo/你的MAP_ID.png" width="420" alt="Visitor map">
+  <a href="https://mapmyvisitors.com/web/你的SITE_ID">
+    <img src="https://mapmyvisitors.com/map_v2/aslo/你的MAP_ID.png" width="420" alt="Visitor map">
   </a>
 </p>
 
